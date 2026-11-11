@@ -1,3 +1,6 @@
+{
+  "ovpn_file":[
+    {"id":0,"file":"
 # Automatically generated OpenVPN client config file
 # Generated on Sun Nov  1 14:55:27 2026 by edevpn-vm.us-west1-c.c.project-da0d4d5e-6319-4651-924.internal
 # Note: this config file contains inline private keys
